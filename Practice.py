@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # # Загружаем данные из CSV файла
-df = pd.read_csv("Dataset salary 2024.csv")
+#df = pd.read_csv("Dataset salary 2024.csv")
 # # Считаем количество каждого типа занятости
 # employment_counts = df['employment_type'].value_counts().sort_index()
 # # Создаем новый столбец с типом занятости и количеством каждого типа
